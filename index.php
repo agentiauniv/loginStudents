@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $host = "aws-1-eu-central-1.pooler.supabase.com";
     $port = "5432";
     $dbname = "postgres";
-    $user = "postgres.uhqqzlpaybcyxrepisgi";
+    $user = "AAAAAAAAA";
     $password_db = "Agentia2026";
 
     // Connexion PostgreSQL
@@ -56,3 +56,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 </body>
 </html>
+
